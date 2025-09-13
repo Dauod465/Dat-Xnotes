@@ -1,0 +1,11 @@
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\bin\Debug\Dat XNotes.exe.config
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\bin\Debug\Dat XNotes.exe
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\bin\Debug\Dat XNotes.pdb
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat XNotes.csproj.AssemblyReference.cache
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat_XNotes.Properties.Resources.resources
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat XNotes.csproj.GenerateResource.cache
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat XNotes.csproj.CoreCompileInputs.cache
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat XNotes.exe
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat XNotes.pdb
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat XNotes.exe.config
+E:\Dauod files\work\Youtube\Visaual sudio\Dat XNotes\Dat XNotes\obj\Debug\Dat_XNotes.XNotes.resources
